@@ -7,10 +7,12 @@ Hi, I'm Nicole.  I will admit I'm feeling more comfortable with Spyder and Jupyt
 **Bold**
 ### Heading number 3  
 
-Here is some basic text before line.
+Here is some basic text before line.  
 
---
+---
+
 After line.
+
 
 :eggplant:
 
